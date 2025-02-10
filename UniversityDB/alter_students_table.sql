@@ -1,5 +1,5 @@
 -- Use the UniversityDB database
-USE `UniversityDB`;
+USE UniversityDB;
 
 -- Step 2: Alter the table to add an Email column
 ALTER TABLE `Students`
